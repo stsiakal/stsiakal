@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stsiakal
 - 👀 I’m interested in coding and specifically game development
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning web development (:
 - 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me : spiros.tsiakalos1@gmail.com
 
