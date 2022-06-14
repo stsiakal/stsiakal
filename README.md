@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stsiakal" alt="stsiakal" /></a> </p>
 
-- 🔭 I’m currently working on [sgmi](www.sgmi.io)
+- 🔭 I’m currently working on [smurfalexis/sgmi](www.sgmi.io)
 
 - 🌱 I’m currently learning **Vanilla Javascript**
 
