@@ -3,9 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stsiakal" alt="stsiakal" /></a> </p>
 
-- 🔭 I’m currently working on [smurfalexis/sgmi](www.sgmi.io)
-
-- 🌱 I’m currently learning **Vanilla Javascript**
+- 🔭 I’m currently working on [stsiakal/DnD-5e-Game]
+- 🌱 I’m currently learning Rspec testing, Sidekiq and Restful API / APi manipulation 
 
 - 👯 I’m looking to collaborate on **open source projects**
 
